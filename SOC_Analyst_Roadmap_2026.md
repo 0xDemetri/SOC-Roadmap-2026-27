@@ -1195,15 +1195,8 @@ SOC Analyst Lab Environment | Self-Directed Learning | [Dates]
 - Automation/SOAR experience
 - MITRE ATT&CK expertise
 
-**Salary Expectations** (Ukraine Market, 2026):
-- **L1 SOC Analyst**: $1,000-1,500/month (25,000-37,000 UAH)
-- **L2 SOC Analyst**: $1,500-2,500/month (37,000-62,000 UAH)
-- **With SC-200**: +20-30% premium
-- **Remote International**: 2-3x Ukraine rates (if accessible)
 
 **Global Remote Opportunities**:
-- Many international companies hiring Ukrainian talent
-- Competitive salaries in USD/EUR
 - Security+ and SC-200 critical for international roles
 - English proficiency essential
 
