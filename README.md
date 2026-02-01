@@ -35,7 +35,7 @@ This is my personal learning roadmap, optimized for the 2026-2027 job market. It
 
 ## 🔗 Related
 
-- **My Portfolio**: [github.com/YOUR-USERNAME/SOC-Analyst-Portfolio](https://github.com/0xDemetri/0xDemetri)
+- **My Portfolio**: [0xDemetri](https://github.com/0xDemetri/0xDemetri)
 - **Progress Tracking**: See portfolio README for current status
 
 ## 📝 Methodology
